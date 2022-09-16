@@ -10,5 +10,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 This simple app was built using __React, React-router, Redux, Vite, WindiCSS__ with __Javascript__ as the primary language and __Axios__ for API fetching
 
 ## Screenshots
-![Shipments](public/src/imgs/Shipments.png "Shipments")
-![Details](public/src/imgs/ShipmentDetails.png "Details")
+![Shipments](src/imgs/Shipments.png "Shipments")
+![Details](src/imgs/ShipmentDetails.png "Details")
